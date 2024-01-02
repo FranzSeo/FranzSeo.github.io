@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Franz Seo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Franz Seo"
 description              : "An amazing website."
 url                      : "https://FranzSeo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:lamoris135@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -139,8 +139,8 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "https://github.com/FranzSeo"
-      # url:
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/FranzSeo"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
